@@ -1,0 +1,13 @@
+h1{
+    text-align: center;
+}
+h4{
+    text-align: center;
+}
+body{
+    background-color: aquamarine;
+}
+#sidebar{
+    background-color: rgb(73, 214, 21);
+    margin-top: -30px;
+}
